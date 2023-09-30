@@ -1,11 +1,11 @@
-# PersonajeNav
+## PersonajeNav
 ## Grupo
--
+-GDS0541
 ## Nombre de los integrantes del equipo
--
+-Karen Linette Cabrera Vidal
+-Gerardo Manzano Villafaña
 ## Nombre del personaje
-- Nombre de tu personaje
-- 
+- Ángel de la guarda
 ## Materiales a utilizar
 |Nombre del componenete|Descripción|Contidad|Precio|
 |-|-|-|-|
