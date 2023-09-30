@@ -11,9 +11,11 @@
 |-|-|-|-|
 |ESP32|Microcontrolador con 30 pines con municacion WiFi y Bluetooth|1|$140.00|
 |Cables Dupont|Cables para conexión de prototipos de pruebas|50|$60.00|
-|
+|Placa arduino|Placa arduino para conexión de placas y sensores|1|$360.00|
+|Sensor de movimiento|Sensor para mover alas del personaje|2|$260.00|
+|leds|Leds para iluminar las alas del ángel|30|$180.00|
+Controlador bluetooth|para poder mandar ordenes desde el celular al personaje|1|$170.00|
 
-Completa la tabla
 ## Software a utilizar
 |Nombre|Versión|Tipo Software|
 |-|-|-|
