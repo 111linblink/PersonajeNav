@@ -16,7 +16,6 @@
 |Controlador bluetooth|para poder mandar ordenes desde el celular al personaje|1|$170.00|
 |Resistencias|Medir la energía entre las conexiones|5|$2.00|
 |Servomotor|	Actuador rotativo o lineal que permite lograr un control preciso en cuanto a posición angular, aceleración y velocidad del eje|1|$60.00|
-|||||
 
 ## Software a utilizar
 |Nombre|Versión|Tipo Software|
@@ -26,11 +25,11 @@
 |Visual Studio Code|1.8.2|Software libre|
 
 ## Prototipo de dibujo
-- Fotografia del dibujo a mano alzada de tu personaje
-  
+![image](https://github.com/111linblink/PersonajeNav/assets/146273461/ad0cb153-7b8a-48d7-bfd5-b727392a396e)
+
 ## Comunicación
 - El personaje podra mover las alas.
-- Las alas cambiaran de color de acuerdo al que se elija medante el celular.
+- Las alas cambiaran de color de acuerdo al que se elija mediante el celular.
   
 ## Arquitectura
 - Diagrama que contenga los sensores, los actores, el microcontrolador, el servidor y la base de datos.
