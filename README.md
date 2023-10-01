@@ -35,7 +35,7 @@
 - Diagrama que contenga los sensores, los actores, el microcontrolador, el servidor y la base de datos.
   
 ## Base de datos
-![image](https://github.com/111linblink/PersonajeNav/assets/146273461/0c1aeb2d-b1e3-4c8c-a746-d1b07ef15368)
+
 
 
 
