@@ -2,8 +2,8 @@
 ## Grupo
 -GDS0541
 ## Nombre de los integrantes del equipo
-- Karen Linette Cabrera Vidal
-- Gerardo Manzano Villafaña
+ - Karen Linette Cabrera Vidal
+ - Gerardo Manzano Villafaña
 ## Nombre del personaje
 - Ángel de la guarda
 ## Materiales a utilizar
