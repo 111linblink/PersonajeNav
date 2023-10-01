@@ -9,12 +9,13 @@
 ## Materiales a utilizar
 |Nombre del componenete|Descripción|Contidad|Precio|
 |-|-|-|-|
-|ESP32|Microcontrolador con 30 pines con municacion WiFi y Bluetooth|1|$140.00|
+|ESP32|Microcontrolador con 30 pines con comunicación WiFi y Bluetooth|1|$140.00|
 |Cables Dupont|Cables para conexión de prototipos de pruebas|50|$60.00|
-|Placa arduino|Placa arduino para conexión de placas y sensores|1|$360.00|
 |Sensor de movimiento|Sensor para mover alas del personaje|2|$260.00|
 |leds|Leds para iluminar las alas del ángel|30|$180.00|
-Controlador bluetooth|para poder mandar ordenes desde el celular al personaje|1|$170.00|
+|Controlador bluetooth|para poder mandar ordenes desde el celular al personaje|1|$170.00|
+|Resistencias|Medir la energía entre las conexiones|5|$2.00|
+|||||
 
 ## Software a utilizar
 |Nombre|Versión|Tipo Software|
@@ -27,13 +28,15 @@ Controlador bluetooth|para poder mandar ordenes desde el celular al personaje|1|
 - Fotografia del dibujo a mano alzada de tu personaje
   
 ## Comunicación
-- Describir la manera que creen que utlizaría su celular para comunicarse con su personaje.
+- El personaje podra mover las alas.
+- Las alas cambiaran de color de acuerdo al que se elija medante el celular.
   
 ## Arquitectura
 - Diagrama que contenga los sensores, los actores, el microcontrolador, el servidor y la base de datos.
   
 ## Base de datos
-- Imagen tabla o tablas que usarias ( EJ. sensores, actuadores, en un modelo relaciones)
+![image](https://github.com/111linblink/PersonajeNav/assets/146273461/0c1aeb2d-b1e3-4c8c-a746-d1b07ef15368)
+
 
 
 
