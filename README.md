@@ -25,7 +25,6 @@
 |Visual Studio Code|1.8.2|Software libre|
 
 ## Prototipo de dibujo
-![image](https://github.com/111linblink/PersonajeNav/assets/146273461/ad0cb153-7b8a-48d7-bfd5-b727392a396e)
 
 ## Comunicación
 - El personaje podra mover las alas.
