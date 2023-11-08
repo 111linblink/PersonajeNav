@@ -29,6 +29,8 @@
 |Visual Studio Code|1.8.2|Software libre|
 |Wokwi||Software libre|
 
+##Conexión en Wokwi
+
 ## Prototipo de dibujo
 ![image](https://github.com/111linblink/PersonajeNav/assets/146273461/58b3d2a0-249b-446d-bebe-8712c8906b71)
 
