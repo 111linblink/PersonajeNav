@@ -58,7 +58,8 @@ https://wokwi.com/projects/380802798401942529
 
   
 ## Base de datos
-![image](https://github.com/111linblink/PersonajeNav/assets/146273461/4738e5d9-9890-4945-aa07-c891bb11fe74)
+![image](https://github.com/111linblink/PersonajeNav/assets/146273461/1cafe650-0457-4a22-994a-8425ddb07516)
+
 
 
 
