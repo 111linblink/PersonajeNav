@@ -29,7 +29,7 @@
 |SSD1602|1.8.1|Software Libre|
 |Visual Studio Code|1.8.2|Software libre|
 |Wokwi||Software libre|
-|Arduino IDE||Software Libre|
+|Arduino IDE|2.0|Software Libre|
 
 ## Conexión en Wokwi
 
