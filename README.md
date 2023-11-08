@@ -34,8 +34,8 @@
 
 ## Comunicación
 - El personaje podrá mover las alas.
-- Las alas cambiaran de color de acuerdo al que se elija mediante el celular.
-- Al momento de mover las alas de fondo se escuchará una canción.
+- Las alas se iluminaran al ritmo de la música.
+- Al momento de mover las alas de fondo se escuchará una canción navideña.
   
 ## Arquitectura
 ![image](https://github.com/111linblink/PersonajeNav/assets/146273461/b2a0c608-047a-4b04-8fc0-aa167deb2702)
