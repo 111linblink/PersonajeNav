@@ -13,7 +13,7 @@
 |Cables Dupont|Cables para conexión de prototipos de pruebas|30|$30.00|
 |leds|Leds para iluminar las alas del ángel|30|$50.00|
 |Controlador bluetooth|para poder mandar ordenes desde el celular al personaje|1|$170.00|
-|Prothoboard|Conectar los leds||
+|Prothoboard|Conectar los leds|1|$60.00|
 |Resistencias|Medir la energía entre las conexiones|5|$10.00|
 |Servomotor|	Actuador rotativo o lineal que permite lograr un control preciso en cuanto a posición angular, aceleración y velocidad del eje|1|$60.00|
 |Servomotor|	Actuador rotativo o lineal que permite lograr un control preciso en cuanto a posición angular, aceleración y velocidad del eje|1|$60.00|
