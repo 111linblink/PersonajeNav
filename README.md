@@ -46,7 +46,6 @@
 https://wokwi.com/projects/380802798401942529
 
 ## Prototipo de dibujo
-![image](https://github.com/111linblink/PersonajeNav/assets/146273461/58b3d2a0-249b-446d-bebe-8712c8906b71)
 ![image](https://github.com/111linblink/PersonajeNav/assets/146273461/0885c715-10f8-4bc3-a2d3-061ea24cf012)
 
 ## Comunicación
