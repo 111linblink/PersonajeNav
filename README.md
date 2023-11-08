@@ -30,6 +30,12 @@
 |Wokwi||Software libre|
 
 ##Conexión en Wokwi
+-Conexión
+![image](https://github.com/111linblink/PersonajeNav/assets/146273461/fa24eb52-a8db-4aa2-ae7d-ad0fa4866116)
+-Funcionaiento
+-![image](https://github.com/111linblink/PersonajeNav/assets/146273461/7ccb495a-255a-4172-ba7e-ce03ca4639d8)
+-Link del archivo
+https://wokwi.com/projects/380802798401942529
 
 ## Prototipo de dibujo
 ![image](https://github.com/111linblink/PersonajeNav/assets/146273461/58b3d2a0-249b-446d-bebe-8712c8906b71)
