@@ -1,4 +1,4 @@
-## PersonajeNav
+[flows.json](https://github.com/111linblink/PersonajeNav/files/13573315/flows.json)## PersonajeNav
 ## Grupo
 -GDS0541
 ## Nombre de los integrantes del equipo
@@ -56,7 +56,219 @@ https://wokwi.com/projects/380802798401942529
 ## Arquitectura
 ![image](https://github.com/111linblink/PersonajeNav/assets/146273461/b2a0c608-047a-4b04-8fc0-aa167deb2702)
 
-  
+##Flujo de node-red
+[Uploading flo[
+    {
+        "id": "73c3ac7f073a219d",
+        "type": "tab",
+        "label": "Flow 2",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "da1f32b8e584ae9f",
+        "type": "ui_switch",
+        "z": "73c3ac7f073a219d",
+        "name": "",
+        "label": "led",
+        "tooltip": "",
+        "group": "f3b33381b2be7e28",
+        "order": 1,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "decouple": "false",
+        "topic": "topic",
+        "topicType": "msg",
+        "style": "",
+        "onvalue": "4",
+        "onvalueType": "str",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "5",
+        "offvalueType": "str",
+        "officon": "",
+        "offcolor": "",
+        "animate": false,
+        "className": "",
+        "x": 590,
+        "y": 100,
+        "wires": [
+            [
+                "2013dd4d68a9d7bd"
+            ]
+        ]
+    },
+    {
+        "id": "d77468774ecb4f7c",
+        "type": "ui_switch",
+        "z": "73c3ac7f073a219d",
+        "name": "",
+        "label": "sensor",
+        "tooltip": "",
+        "group": "f3b33381b2be7e28",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "passthru": true,
+        "decouple": "false",
+        "topic": "topic",
+        "topicType": "msg",
+        "style": "",
+        "onvalue": "2",
+        "onvalueType": "str",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "3",
+        "offvalueType": "str",
+        "officon": "",
+        "offcolor": "",
+        "animate": false,
+        "className": "",
+        "x": 590,
+        "y": 260,
+        "wires": [
+            [
+                "2013dd4d68a9d7bd"
+            ]
+        ]
+    },
+    {
+        "id": "2013dd4d68a9d7bd",
+        "type": "mqtt out",
+        "z": "73c3ac7f073a219d",
+        "name": "",
+        "topic": "utng/klcv/led",
+        "qos": "2",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "1c48427011033ec0",
+        "x": 850,
+        "y": 180,
+        "wires": []
+    },
+    {
+        "id": "c3fa15d06271d1ca",
+        "type": "inject",
+        "z": "73c3ac7f073a219d",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 340,
+        "y": 200,
+        "wires": [
+            [
+                "da1f32b8e584ae9f",
+                "d77468774ecb4f7c"
+            ]
+        ]
+    },
+    {
+        "id": "6323180c90194674",
+        "type": "debug",
+        "z": "73c3ac7f073a219d",
+        "name": "debug 1",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 840,
+        "y": 80,
+        "wires": []
+    },
+    {
+        "id": "f3b33381b2be7e28",
+        "type": "ui_group",
+        "name": "Controles",
+        "tab": "130465b46c2f9d58",
+        "order": 1,
+        "disp": true,
+        "width": "6",
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "1c48427011033ec0",
+        "type": "mqtt-broker",
+        "name": "",
+        "broker": "broker.hivemq.com",
+        "port": "1883",
+        "clientid": "",
+        "autoConnect": true,
+        "usetls": false,
+        "protocolVersion": "4",
+        "keepalive": "60",
+        "cleansession": true,
+        "autoUnsubscribe": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthRetain": "false",
+        "birthPayload": "",
+        "birthMsg": {},
+        "closeTopic": "",
+        "closeQos": "0",
+        "closeRetain": "false",
+        "closePayload": "",
+        "closeMsg": {},
+        "willTopic": "",
+        "willQos": "0",
+        "willRetain": "false",
+        "willPayload": "",
+        "willMsg": {},
+        "userProps": "",
+        "sessionExpiry": ""
+    },
+    {
+        "id": "130465b46c2f9d58",
+        "type": "ui_tab",
+        "name": "Ángel",
+        "icon": "dashboard",
+        "order": 1,
+        "disabled": false,
+        "hidden": false
+    }
+]ws.json…]()
+
+##Videos
+
+https://github.com/111linblink/PersonajeNav/assets/146273461/5af57898-60a2-46a4-a69c-243528fa52c1
+
+
+https://github.com/111linblink/PersonajeNav/assets/146273461/97230910-6d39-40fa-8c8c-6bbe0fb0320b
+
+
+https://github.com/111linblink/PersonajeNav/assets/146273461/600e8f0b-fde9-4a97-aa90-07fd9f3f308e
+
+##Imágenes
+
+![image](https://github.com/111linblink/PersonajeNav/assets/146273461/74790b01-f522-4d35-bf64-791ce8e97415)
+
+![image](https://github.com/111linblink/PersonajeNav/assets/146273461/0dbe1c3f-05c5-4bc1-9985-b0af6bfcd47a)
+
+![image](https://github.com/111linblink/PersonajeNav/assets/146273461/de825764-8f4b-4803-9b0c-dff4ac4e74e7)
+
 ## Base de datos
 ![image](https://github.com/111linblink/PersonajeNav/assets/146273461/1cafe650-0457-4a22-994a-8425ddb07516)
 
